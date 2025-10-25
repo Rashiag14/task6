@@ -36,7 +36,7 @@ git clone https://github.com/yourusername/sales-dashboard-seaborn.git
 2. Navigate to the project folder:
 cd sales-dashboard-seaborn
 3. Run the Python script:
-python sales_dashboard.py
+python task6.py
 
 
 📈 Visualizations Included
